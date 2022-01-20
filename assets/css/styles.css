@@ -1,0 +1,51 @@
+.navBarPositionControl {
+    padding-left: 10%;
+}
+
+.navBarColor {
+    background: black;
+    padding-left: 2%;
+}
+
+.imgHover {
+padding-left: 3%;
+padding-top: 8%;
+}
+
+.playMoreHero {
+    padding-left: 3%;
+
+}
+.buttonsHero {
+    background-color: rgba(80, 81, 83, 0.8);
+    
+}
+
+.carroselOverHero {
+    margin-top: -8%;
+}
+
+.carroselMargin{
+    margin-left: 2%;
+    margin-right: 2;
+}
+
+.heroBackground{
+    background: url('https://iili.io/l3Pb3l.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    line-height: 400%;
+  }
+
+  .box-filme{
+      height: 100%;
+      width: 100%;
+      display: block;
+
+  }
+
+  .popularHeading {
+      color: white;
+      text-shadow: 0px 0px 2px rgba(150, 150, 150, 1);
+  }
